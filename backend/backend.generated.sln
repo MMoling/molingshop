@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "backend", "backend", "{E2E8192A-414D-4A48-BFAA-096CE5460867}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalutiWebApi", "backend\SalutiWebApi\SalutiWebApi.csproj", "{788CB866-1F62-42FE-ACBC-6ECF6AF7F934}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalutiWebApi.test", "backend\SalutiWebApi.test\SalutiWebApi.test.csproj", "{68CF7BDF-E8AA-4951-8E4E-C04DD9A4A9B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{788CB866-1F62-42FE-ACBC-6ECF6AF7F934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788CB866-1F62-42FE-ACBC-6ECF6AF7F934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788CB866-1F62-42FE-ACBC-6ECF6AF7F934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788CB866-1F62-42FE-ACBC-6ECF6AF7F934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68CF7BDF-E8AA-4951-8E4E-C04DD9A4A9B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CF7BDF-E8AA-4951-8E4E-C04DD9A4A9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CF7BDF-E8AA-4951-8E4E-C04DD9A4A9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CF7BDF-E8AA-4951-8E4E-C04DD9A4A9B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{788CB866-1F62-42FE-ACBC-6ECF6AF7F934} = {E2E8192A-414D-4A48-BFAA-096CE5460867}
+		{68CF7BDF-E8AA-4951-8E4E-C04DD9A4A9B8} = {E2E8192A-414D-4A48-BFAA-096CE5460867}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A368FE9D-F7DA-41A2-9C16-025238BEEA5B}
+	EndGlobalSection
+EndGlobal

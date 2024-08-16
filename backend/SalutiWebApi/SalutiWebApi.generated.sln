@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalutiWebApi", "SalutiWebApi.csproj", "{68A771DB-44F0-4E23-B679-E5829E1706AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68A771DB-44F0-4E23-B679-E5829E1706AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A771DB-44F0-4E23-B679-E5829E1706AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A771DB-44F0-4E23-B679-E5829E1706AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A771DB-44F0-4E23-B679-E5829E1706AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {688948BB-3A3B-4D3C-8CA8-1151123662DF}
+	EndGlobalSection
+EndGlobal
